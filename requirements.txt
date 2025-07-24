@@ -3,3 +3,4 @@ openpyxl
 supabase
 streamlit==1.4.7.0
 groq
+requests
